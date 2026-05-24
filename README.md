@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-the-sunrise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Chasing The Sunrise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-the-sunrise/) |
+| **Get License** | [Official Music Licensing for Chasing The Sunrise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-the-sunrise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We've been driving through the dark with the windows down
+> Looking for a quiet spot just outside of town
+> I can feel the heat between us starting up a fire
+> Burning through the midnight, fueled by our desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
